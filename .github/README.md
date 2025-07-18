@@ -75,14 +75,14 @@ We're here to help you every step of the way! Reach out through:
 
 - **📝 GitHub Issues**: Report bugs or ask questions by [**opening an issue**](https://github.com/TheTeamVivek/YukkiMusic/issues/new?assignees=&labels=question&title=support).
 
-- **💬 Telegram Support**: Connect with us on [**Telegram**](https://t.me/TheTeamVk).
+- **💬 Telegram Support**: Connect with us on [**Telegram**](https://t.me/ganasupport).
 
 - **👥 Support Channel**: Join our community at
- [**TheTeamVivek**](https://t.me/TheTeamVivek).
+ [**TheTeamVivek**](https://t.me/ganasupport).
 
 
 ## ⭐ Support the Original
-Show your love for the project that started it all! If you're using or forking **YukkiMusic**, please **star** the original repository: [**⭐ YukkiMusicBot**](https://github.com/TeamYukki/YukkiMusicBot)
+Show your love for the project that started it all! If you're using or forking **YukkiMusic**, please **star** the original repository: [**⭐ YukkiMusicBot**](https://t.me/ganasupport)
 
 
 ## ❣️ Show Your Support
