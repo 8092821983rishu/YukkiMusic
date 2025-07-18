@@ -90,7 +90,10 @@ LOG_GROUP_ID = getenv("LOG_GROUP_ID", "").strip()
 OWNER_ID = list(
     map(int, getenv("OWNER_ID", "7688993208").split())
 )  # Input type must be interger
-
+YTPROXY_URL = getenv("YTPROXY_URL", 'https://tgapi.xbitcode.com') ## E.G https://yt.okflix.
+YT_API_KEY = getenv("YT_API_KEY" , 'xbit_0000403730835845267241' ) ## get your secret key from Mr cute x - @MR_CUTE_X
+## Fill these variables if you're deploying on heroku.
+# Your heroku app name
 # Get it from http://dashboard.heroku.com/account
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
